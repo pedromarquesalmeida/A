@@ -9,6 +9,10 @@ module CC
         @local_name = local_name
       end
 
+      def hello
+        puts "hello!"
+      end
+
     end
   end
 end
